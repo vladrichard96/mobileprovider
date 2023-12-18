@@ -1,0 +1,14 @@
+C:\учеба\учеба\тесты\провайдер\Mobile\Mobile\bin\Debug\net6.0\Mobile.exe
+C:\учеба\учеба\тесты\провайдер\Mobile\Mobile\bin\Debug\net6.0\Mobile.deps.json
+C:\учеба\учеба\тесты\провайдер\Mobile\Mobile\bin\Debug\net6.0\Mobile.runtimeconfig.json
+C:\учеба\учеба\тесты\провайдер\Mobile\Mobile\bin\Debug\net6.0\Mobile.dll
+C:\учеба\учеба\тесты\провайдер\Mobile\Mobile\bin\Debug\net6.0\Mobile.pdb
+C:\учеба\учеба\тесты\провайдер\Mobile\Mobile\obj\Debug\net6.0\Mobile.GeneratedMSBuildEditorConfig.editorconfig
+C:\учеба\учеба\тесты\провайдер\Mobile\Mobile\obj\Debug\net6.0\Mobile.AssemblyInfoInputs.cache
+C:\учеба\учеба\тесты\провайдер\Mobile\Mobile\obj\Debug\net6.0\Mobile.AssemblyInfo.cs
+C:\учеба\учеба\тесты\провайдер\Mobile\Mobile\obj\Debug\net6.0\Mobile.csproj.CoreCompileInputs.cache
+C:\учеба\учеба\тесты\провайдер\Mobile\Mobile\obj\Debug\net6.0\Mobile.dll
+C:\учеба\учеба\тесты\провайдер\Mobile\Mobile\obj\Debug\net6.0\refint\Mobile.dll
+C:\учеба\учеба\тесты\провайдер\Mobile\Mobile\obj\Debug\net6.0\Mobile.pdb
+C:\учеба\учеба\тесты\провайдер\Mobile\Mobile\obj\Debug\net6.0\Mobile.genruntimeconfig.cache
+C:\учеба\учеба\тесты\провайдер\Mobile\Mobile\obj\Debug\net6.0\ref\Mobile.dll
